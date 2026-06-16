@@ -2,7 +2,7 @@
 C program to simulate multilevel feedback queue scheduler
 
 # pintos
-Modifying the pintos kernel and compiling it. Using the algorithm to manipulate threads and change the priority scheduler.
+Modifying the pintos kernel and compiling it. Using the FIFO algorithm to manipulate threads and change the priority scheduler.
 This project originates from stanfords operating systems course with pintos(https://web.stanford.edu/class/cs140/projects/pintos/pintos_1.html) as a separate project
 
 Multi-level feedback queue scheduler Q consists of 3 linear queues, i.e., Q1, Q2, and Q3.
